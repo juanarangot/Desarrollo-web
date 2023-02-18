@@ -1,0 +1,11 @@
+# Ignore macOS files
+.DS_Store
+
+# Editor directories and files
+.vscode
+.idea
+
+# node_modules
+node_modules
+
+presentaciones
