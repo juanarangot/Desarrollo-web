@@ -1,6 +1,6 @@
 # Desarrollo-web
 
-Contenido sobre desarrollo web, como puntos a tratar, recursos importantes y tutoriales
+Contenido sobre desarrollo web, como puntos a tratar, recursos importantes y tutoriales útiles para los alumnos:
 
 ---
 
